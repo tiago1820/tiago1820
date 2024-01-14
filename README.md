@@ -1,4 +1,4 @@
-<h1 align="center">🥇 Full Stack Developer 🥇</h1> 
+<h1 align="center">🥇 Backend Developer 🥇</h1> 
 <h1 align="center"> 🏆Skills🏆 </h1>
 <table align="center">
   <tr>
