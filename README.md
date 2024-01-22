@@ -2,14 +2,14 @@
 <h1 align="center"> 🏆Skills🏆 </h1>
 <table align="center">
   <tr>
-<!--     <td align="center" width="90">
+    <td align="center" width="90">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="icon" width="55" height="55" />
       <br>HTML5
     </td> -->
-<!--     <td align="center" width="90">
+<td align="center" width="90">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" height="45" alt="" />
       <br>CSS3
-    </td> -->
+    </td>
     <td align="center" width="90">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" height="45" alt="JavaScript" />
       <br>JavaScript
