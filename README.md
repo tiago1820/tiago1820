@@ -22,7 +22,10 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="icon" width="55" height="55" />
       <br>ExpressJS
     </td>
-    <td align="center" width="90">
+    
+  </tr>
+  <tr>
+  <td align="center" width="90">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="icon" width="55" height="55" />
       <br>PostgreSQL
     </td>
@@ -46,5 +49,6 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="45" height="45" alt="AWS" />
       <br>AWS
     </td>
+    
   </tr>
 </table>
