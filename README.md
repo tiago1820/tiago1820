@@ -3,18 +3,6 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="icon" width="55" height="55" />
-      <br>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" height="45" alt="" />
-      <br>CSS3
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="45" height="45" alt="" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" height="45" alt="JavaScript" />
       <br>JavaScript
     </td>
@@ -27,8 +15,7 @@
       <br>ExpressJS
     </td>
     
-  </tr>
-  <tr>
+
   <td align="center" width="90">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="icon" width="55" height="55" />
       <br>PostgreSQL
