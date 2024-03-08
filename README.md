@@ -94,8 +94,8 @@ Estoy especializado en backend y tengo conocimientos en metodologías ágiles, G
       <br>Vim
     </td>
      <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" height="45" alt="Git" />
-      <br>Vim
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" height="45" alt="git" />
+      <br>Git
     </td>
   </tr>
 </table>
