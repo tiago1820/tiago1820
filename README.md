@@ -4,7 +4,7 @@ Soy Tiago Souza de Oliveira, un desarrollador backend con una sólida experienci
 
 Estoy especializado en backend y tengo conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos y frameworks de JavaScript. He trabajado en proyectos de desarrollo backend utilizando tecnologías como NodeJS, ExpressJS, PostgreSQL, Sequelize y AWS EC2. Me destaco por mi capacidad para organizar de manera efectiva, adaptarme a los cambios, aprender de manera continua y colaborar de manera efectiva en equipos multidisciplinarios. Mi nivel de inglés es B1 y estoy comprometido con mi desarrollo profesional continuo.
 
-<h2 align="center"> 💻 Frontend Knowledge 💻 </h2>
+<h2 align="center"> 🌐 Frontend Knowledge 🎨 </h2>
 
 <table align="center">
   <tr> 
@@ -39,7 +39,7 @@ Estoy especializado en backend y tengo conocimientos en metodologías ágiles, G
   </tr>
 </table>
 
-<h2 align="center"> 💻 Backend Knowledge 💻 </h2>
+<h2 align="center"> 💻 Backend Knowledge 🔧 </h2>
 
 <table align="center">
     <tr>
@@ -74,7 +74,7 @@ Estoy especializado en backend y tengo conocimientos en metodologías ágiles, G
   </tr>
 </table>
 
-<h2 align="center"> 💻 DevOps Knowledge 💻 </h2>
+<h2 align="center"> 🛠️ DevOps Knowledge 🚀 </h2>
 <table align="center">
   <tr>
     <td align="center" width="90">
