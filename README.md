@@ -1,4 +1,4 @@
-<h1 align="center">🥇 Backend Developer 🥇</h1> 
+<h1 align="center">🥇 Full Stack Developer 🥇</h1> 
 
 Soy Tiago Souza de Oliveira, un desarrollador backend con una sólida experiencia en la gestión de stock para una empresa ortopédica. Esta experiencia me ha brindado una base sólida para trabajar en equipo, organizar de manera eficiente y gestionar datos meticulosamente. A lo largo de mi carrera, he desarrollado habilidades esenciales para colaborar efectivamente, prestar atención al detalle y adaptarme a entornos dinámicos. 
 
