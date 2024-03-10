@@ -99,7 +99,3 @@ Estoy especializado en backend y tengo conocimientos en metodologías ágiles, G
     </td>
   </tr>
 </table>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=tiago1820&label=Profile%20views&color=0e75b6&style=flat" alt="tiago1820" />
-</p>
