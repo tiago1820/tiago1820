@@ -1,6 +1,6 @@
-<h1 align="center">🥇 Full Stack Developer 🥇</h1> 
+<h1 align="center">🥇 Full Stack Developer 🥇</h1>
 
-Soy Tiago Souza de Oliveira, un desarrollador full stack con una sólida experiencia en la gestión de stock para una empresa ortopédica. Esta experiencia me ha brindado una base sólida para trabajar en equipo, organizar de manera eficiente y gestionar datos meticulosamente. A lo largo de mi carrera, he desarrollado habilidades esenciales para colaborar efectivamente, prestar atención al detalle y adaptarme a entornos dinámicos. 
+Soy Tiago Souza de Oliveira, un desarrollador full stack con una sólida experiencia en la gestión de stock para una empresa ortopédica. Esta experiencia me ha brindado una base sólida para trabajar en equipo, organizar de manera eficiente y gestionar datos meticulosamente. A lo largo de mi carrera, he desarrollado habilidades esenciales para colaborar efectivamente, prestar atención al detalle y adaptarme a entornos dinámicos.
 
 Estoy especializado en el desarrollo full stack y tengo conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos y frameworks de JavaScript. He trabajado en proyectos de desarrollo backend y front utilizando tecnologías como HTML,CSS, JavaScript, Bootstrap, Tailwind, React, NodeJS, ExpressJS, PostgreSQL, Sequelize y AWS EC2. Me destaco por mi capacidad para organizar de manera efectiva, adaptarme a los cambios, aprender de manera continua y colaborar de manera efectiva en equipos multidisciplinarios. Mi nivel de inglés es B1 y estoy comprometido con mi desarrollo profesional continuo.
 
@@ -28,14 +28,6 @@ Estoy especializado en el desarrollo full stack y tengo conocimientos en metodol
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="45" height="45" alt="redux" />
       <br>Redux
     </td>
-    <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="45" height="45" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="45" height="45" alt="tailwind" />
-      <br>Tailwind
-    </td>
   </tr>
 </table>
 
@@ -59,18 +51,6 @@ Estoy especializado en el desarrollo full stack y tengo conocimientos en metodol
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="55" height="55" />
       <br>Sequelize
     </td>
-    <td align="center" width="90">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="55" height="55" />
-        <br>PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="laravel" width="55" height="55" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="45" height="45" alt="Firebase" />
-      <br>Firebase
-    </td>
   </tr>
 </table>
 
@@ -82,16 +62,8 @@ Estoy especializado en el desarrollo full stack y tengo conocimientos en metodol
       <br>Linux
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="45" height="45" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="45" height="45" alt="AWS" />
       <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="45" height="45" alt="vim" />
-      <br>Vim
     </td>
      <td align="center" width="90">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" height="45" alt="git" />
@@ -99,3 +71,39 @@ Estoy especializado en el desarrollo full stack y tengo conocimientos en metodol
     </td>
   </tr>
 </table>
+
+<h2 align="center"> Some of my projects </h2>
+<div>
+<table>
+<tr>
+<td width="50%">
+    <h3 align="center">Care With Love</h3>
+    <div align="center">
+        <a href="https://proyecto-final-front-ashy.vercel.app/" target="_blank"><img src="https://imgur.com/1xjWfg9.jpg" width="400" alt="Ninja Social Network"></a>
+        <p><a href="https://github.com/tiago1820/proyecto-final-back" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        <p>Plataforma que conecta a proveedores de servicios de asistencia a la tercera edad con clientes, proporcionando una experiencia transparente y eficiente.</p>
+        <p>Proyecto academico de conclusion del bootcamp Henry</p>
+    </div>
+<td width="50%">
+    <h3 align="center">Pokemon Wiki</h3>
+    <div align="center">
+        <a href="https://pokemon-pi-ochre.vercel.app/" target="_blank"><img src="https://imgur.com/dQJmpJV.png" width="400" alt="Pokemon Wiki"></a>
+        <p><a href="https://github.com/tiago1820/pokemon-pi" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        <p>The Pokémon web app, built with NodeJS, Express, React, and Redux, seamlessly integrates with PokeAPI and a PostgreSQL database via Sequelize. Users search, view, and filter Pokémon info, creating new ones through an interactive form. The frontend offers an intuitive experience with home pages, detailed views, and a creation form. Advanced features</p>
+    </div>                                                                          
+</td> 
+</table>
+<br>
+<table>
+<tr>  
+<td width="50%">
+    <h3 align="center">Flappy Eggman</h3>
+    <div align="center">                                       
+        <a href="https://tiago1820.github.io/flappy-eggman/" target="_blank"><img src="https://imgur.com/tubZBRd.png" width="400" alt="Flappy Eggman"></a>
+        <br>
+        <p><a href="https://github.com/tiago1820/flappy-eggman" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        </p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    </div>   
+</td>
+</table>                                                                                 
+</div>
