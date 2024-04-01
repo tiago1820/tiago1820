@@ -76,6 +76,15 @@ Estoy especializado en el desarrollo full stack y tengo conocimientos en metodol
 <div>
 <table>
 <tr>
+  <td width="50%">
+    <h3 align="center">Memory Game</h3>
+    <div align="center">                                       
+        <a href="https://tiago1820.github.io/memory-game/" target="_blank"><img src="https://imgur.com/undefined.png" width="400" alt="Flappy Eggman"></a>
+        <br>
+        <p><a href="https://github.com/tiago1820/memory-game" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        </p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    </div>   
+</td>
 <td width="50%">
     <h3 align="center">Care With Love</h3>
     <div align="center">
@@ -84,7 +93,11 @@ Estoy especializado en el desarrollo full stack y tengo conocimientos en metodol
         <p>Plataforma que conecta a proveedores de servicios de asistencia a la tercera edad con clientes, proporcionando una experiencia transparente y eficiente.</p>
         <p>Proyecto academico de conclusion del bootcamp Henry</p>
     </div>
-<td width="50%">
+</table>
+<br>
+<table>
+<tr>  
+  <td width="50%">
     <h3 align="center">Pokemon Wiki</h3>
     <div align="center">
         <a href="https://pokemon-pi-phi.vercel.app/" target="_blank"><img src="https://imgur.com/dQJmpJV.png" width="400" alt="Pokemon Wiki"></a>
@@ -92,10 +105,6 @@ Estoy especializado en el desarrollo full stack y tengo conocimientos en metodol
         <p>The Pokémon web app, built with NodeJS, Express, React, and Redux, seamlessly integrates with PokeAPI and a PostgreSQL database via Sequelize. Users search, view, and filter Pokémon info, creating new ones through an interactive form. The frontend offers an intuitive experience with home pages, detailed views, and a creation form. Advanced features</p>
     </div>                                                                          
 </td> 
-</table>
-<br>
-<table>
-<tr>  
 <td width="50%">
     <h3 align="center">Flappy Eggman</h3>
     <div align="center">                                       
