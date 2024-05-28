@@ -1,8 +1,8 @@
-<h1 align="center">🥇 Backend Developer 🥇</h1>
+<h1 align="center">🥇 Full Stack Developer 🥇</h1>
 
-Soy Tiago Souza de Oliveira, un desarrollador backend con una sólida experiencia en la gestión de stock para una empresa ortopédica. Esta experiencia me ha brindado una base sólida para trabajar en equipo, organizar de manera eficiente y gestionar datos meticulosamente. A lo largo de mi carrera, he desarrollado habilidades esenciales para colaborar efectivamente, prestar atención al detalle y adaptarme a entornos dinámicos.
+Soy Tiago Souza de Oliveira, un desarrollador full stack con una sólida experiencia en la gestión de stock para una empresa ortopédica. Esta experiencia me ha brindado una base sólida para trabajar en equipo, organizar de manera eficiente y gestionar datos meticulosamente. A lo largo de mi carrera, he desarrollado habilidades esenciales para colaborar efectivamente, prestar atención al detalle y adaptarme a entornos dinámicos.
 
-Estoy especializado en el desarrollo backend y tengo conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos y frameworks de JavaScript. He trabajado en proyectos de desarrollo backend utilizando tecnologías como JavaScript, NodeJS, ExpressJS, PostgreSQL, Sequelize, Docker, JWT, AWS(EC2, S3). Me destaco por mi capacidad para organizar de manera efectiva, adaptarme a los cambios, aprender de manera continua y colaborar de manera efectiva en equipos multidisciplinarios. Mi nivel de inglés es B1 y estoy comprometido con mi desarrollo profesional continuo.
+Estoy especializado en el desarrollo full stack y tengo conocimientos en metodologías, GIT, estructura de datos, algoritmos y frameworks de JavaScript. He trabajado en proyectos de desarrollo full stack utilizando tecnologías como JavaScript, ReactJS, NodeJS, ExpressJS, PostgreSQL, Sequelize, Docker, JWT, AWS(EC2, S3). Me destaco por mi capacidad para organizar de manera efectiva, adaptarme a los cambios, aprender de manera continua y colaborar de manera efectiva en equipos multidisciplinarios. Mi nivel de inglés es B1 y estoy comprometido con mi desarrollo profesional continuo.
 
 <h2 align="center"> 🌐 Frontend Knowledge 🎨 </h2>
 
