@@ -4,6 +4,9 @@ Soy Tiago Souza de Oliveira, un desarrollador full stack con una sólida experie
 
 Estoy especializado en el desarrollo full stack y tengo conocimientos en metodologías, GIT, estructura de datos, algoritmos y frameworks de JavaScript. He trabajado en proyectos de desarrollo full stack utilizando tecnologías como JavaScript, ReactJS, NodeJS, ExpressJS, PostgreSQL, Sequelize, Docker, JWT, AWS(EC2, S3). Me destaco por mi capacidad para organizar de manera efectiva, adaptarme a los cambios, aprender de manera continua y colaborar de manera efectiva en equipos multidisciplinarios. Mi nivel de inglés es B1 y estoy comprometido con mi desarrollo profesional continuo.
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiago1820&label=Profile%20views&color=0e75b6&style=flat" alt="tiago1820" /> </p>
+
+
 <h2 align="center"> 🌐 Frontend Knowledge 🎨 </h2>
 
 <table align="center">
