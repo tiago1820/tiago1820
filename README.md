@@ -11,25 +11,9 @@ Estoy especializado en el desarrollo full stack y tengo conocimientos en metodol
 
 <table align="center">
   <tr> 
-     <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45" height="45" alt="html" />
-      <br>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" height="45" alt="css" />
-      <br>CSS
-    </td>
-     <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" height="45" alt="JavaScript" />
-      <br>JavaScript
-    </td>
     <td align="center" width="90">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="45" height="45" alt="react" />
       <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="45" height="45" alt="redux" />
-      <br>Redux
     </td>
   </tr>
 </table>
@@ -38,6 +22,10 @@ Estoy especializado en el desarrollo full stack y tengo conocimientos en metodol
 
 <table align="center">
     <tr>
+      <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="45" height="45" alt="TypeScript" />
+      <br>TypeScript
+    </td>
     <td align="center" width="90">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="45" height="45" alt="NodeJS" />
       <br>NodeJS
@@ -49,10 +37,6 @@ Estoy especializado en el desarrollo full stack y tengo conocimientos en metodol
     <td align="center" width="90">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="55" height="55" />
       <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="55" height="55" />
-      <br>Sequelize
     </td>
   </tr>
 </table>
