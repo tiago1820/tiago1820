@@ -4,11 +4,11 @@ I'm Tiago Souza de Oliveira, a full-stack developer with solid experience in sto
 
 I specialize in full-stack development and have knowledge of methodologies, GIT, data structures, algorithms, and JavaScript frameworks. I have worked on full-stack development projects using technologies such as JavaScript, ReactJS, NodeJS, ExpressJS, PostgreSQL, Sequelize, Docker, JWT, and AWS (EC2, S3). I stand out for my ability to effectively organize, adapt to change, continuously learn, and collaborate with multidisciplinary teams. My English level is B1, and I am committed to continuous professional development.
 
-Support:
-BTC: bc1q2qf5799s20efkr6twshufx8kc9rc0vcapulqde
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiago1820&label=Profile%20views&color=0e75b6&style=flat" alt="tiago1820" /> </p>
 
+<h2 align="center"> ₿ Support ₿ </h2>
+
+<h4 align="center">BTC: bc1q2qf5799s20efkr6twshufx8kc9rc0vcapulqde</h4>
 
 <h2 align="center"> 🌐 Frontend Knowledge 🎨 </h2>
 
