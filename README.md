@@ -1,8 +1,8 @@
 <h1 align="center">🥇 Full Stack Developer 🥇</h1>
 
-Soy Tiago Souza de Oliveira, un desarrollador full stack con una sólida experiencia en la gestión de stock para una empresa ortopédica. Esta experiencia me ha brindado una base sólida para trabajar en equipo, organizar de manera eficiente y gestionar datos meticulosamente. A lo largo de mi carrera, he desarrollado habilidades esenciales para colaborar efectivamente, prestar atención al detalle y adaptarme a entornos dinámicos.
+I'm Tiago Souza de Oliveira, a full-stack developer with solid experience in stock management for an orthopedic company. This experience has given me a strong foundation in teamwork, efficient organization, and meticulous data management. Throughout my career, I have developed essential skills for effective collaboration, attention to detail, and adaptability in dynamic environments.
 
-Estoy especializado en el desarrollo full stack y tengo conocimientos en metodologías, GIT, estructura de datos, algoritmos y frameworks de JavaScript. He trabajado en proyectos de desarrollo full stack utilizando tecnologías como JavaScript, ReactJS, NodeJS, ExpressJS, PostgreSQL, Sequelize, Docker, JWT, AWS(EC2, S3). Me destaco por mi capacidad para organizar de manera efectiva, adaptarme a los cambios, aprender de manera continua y colaborar de manera efectiva en equipos multidisciplinarios. Mi nivel de inglés es B1 y estoy comprometido con mi desarrollo profesional continuo.
+I specialize in full-stack development and have knowledge of methodologies, GIT, data structures, algorithms, and JavaScript frameworks. I have worked on full-stack development projects using technologies such as JavaScript, ReactJS, NodeJS, ExpressJS, PostgreSQL, Sequelize, Docker, JWT, and AWS (EC2, S3). I stand out for my ability to effectively organize, adapt to change, continuously learn, and collaborate with multidisciplinary teams. My English level is B1, and I am committed to continuous professional development.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiago1820&label=Profile%20views&color=0e75b6&style=flat" alt="tiago1820" /> </p>
 
