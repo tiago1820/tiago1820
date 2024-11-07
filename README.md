@@ -1,8 +1,8 @@
-<h1 align="center">🥇 Full Stack Developer 🥇</h1>
+<h1 align="center">🥇 Backend Developer 🥇</h1>
 
 I'm Tiago Souza de Oliveira, a full-stack developer with solid experience in stock management for an orthopedic company. This experience has given me a strong foundation in teamwork, efficient organization, and meticulous data management. Throughout my career, I have developed essential skills for effective collaboration, attention to detail, and adaptability in dynamic environments.
 
-I specialize in full-stack development and have knowledge of methodologies, GIT, data structures, algorithms, and JavaScript frameworks. I have worked on full-stack development projects using technologies such as JavaScript, ReactJS, NodeJS, ExpressJS, PostgreSQL, Sequelize, Docker, JWT, and AWS (EC2, S3). I stand out for my ability to effectively organize, adapt to change, continuously learn, and collaborate with multidisciplinary teams. My English level is B1, and I am committed to continuous professional development.
+I specialize in back-end development and have knowledge of methodologies, GIT, data structures, algorithms, and JavaScript frameworks. I have worked on full-stack development projects using technologies such as JavaScript, ReactJS, NodeJS, ExpressJS, PostgreSQL, Sequelize, Docker, JWT, and AWS (EC2, S3). I stand out for my ability to effectively organize, adapt to change, continuously learn, and collaborate with multidisciplinary teams. My English level is B1, and I am committed to continuous professional development.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiago1820&label=Profile%20views&color=0e75b6&style=flat" alt="tiago1820" /> </p>
 
