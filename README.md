@@ -102,3 +102,13 @@ I specialize in back-end development and have knowledge of methodologies, GIT, d
 </td>
 </table>                                                                                 
 </div>
+
+<div align="center">
+
+## 💰 You can help me by Donating
+
+<br/>
+
+[![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/tiago1820)
+
+</div>
